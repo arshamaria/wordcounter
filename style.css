@@ -1,0 +1,29 @@
+.word-cont{
+    padding:20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+h1{
+    color: brown;
+}
+#textcont{
+    display: block;
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+}
+#count{
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    background:brown;
+    color: antiquewhite;
+    padding:10px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.words{
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+}
